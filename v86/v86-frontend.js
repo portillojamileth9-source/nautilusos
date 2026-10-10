@@ -800,7 +800,7 @@ class V86Frontend {
         // Show capture notification
         this.showInputCaptureNotification(true);
         
-        // Prevent NautilusOS shortcuts when input is captured
+        // Prevent FATCAT OS shortcuts when input is captured
         if (this.preventNautilusOSConflicts) {
             document.body.classList.add('v86-input-active');
         }
@@ -826,7 +826,7 @@ class V86Frontend {
         // Hide capture notification
         this.showInputCaptureNotification(false);
         
-        // Re-enable NautilusOS shortcuts
+        // Re-enable FATCAT OS shortcuts
         if (this.preventNautilusOSConflicts) {
             document.body.classList.remove('v86-input-active');
         }
@@ -885,9 +885,9 @@ class V86Frontend {
             return;
         }
         
-        // Prevent certain key combinations that might conflict with NautilusOS
+        // Prevent certain key combinations that might conflict with FATCAT OS
         if (this.preventNautilusOSConflicts) {
-            // Block common NautilusOS shortcuts when input is captured
+            // Block common FATCAT OS shortcuts when input is captured
             const blockedCombinations = [
                 // Alt+Tab (window switching)
                 event.altKey && event.key === 'Tab',
