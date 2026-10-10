@@ -1,19 +1,19 @@
 
-### `DAWG CHECK OUT GUST (https://github.com/nautilus-os/GUST)!! NAUTILUS LABS's FLAGSHIP PROXY! (ITS ALSO UNBLOCKABLE, WHICH NO OTHER PROXY CAN BOAST)`
-## NautilusOS
+### `DAWG CHECK OUT GUST (https://github.com/nautilus-os/GUST)!! FATCAT LABS's FLAGSHIP PROXY! (ITS ALSO UNBLOCKABLE, WHICH NO OTHER PROXY CAN BOAST)`
+## FATCAT OS
 
-NautilusOS is a web-based operating system built entirely in HTML, CSS, and JS.
+FATCAT OS is a web-based operating system built entirely in HTML, CSS, and JS.
 Boot it up, log in, and mess around like it’s a real desktop with proxies, games, apps, an app store, windows, a file explorer, taskbar, and more.
 
-NAUTILUS BLOCKED BY YOUR SCHOOL?? DOWNLOAD "index.html" from the NautilusOS-OneFile folder! Open up index.html and you'll have (most*) of Nautilus's features!
+FATCAT BLOCKED BY YOUR SCHOOL?? DOWNLOAD "index.html" from the NautilusOS-OneFile folder! Open up index.html and you'll have (most*) of FATCAT'S features!
 
-*Nautilus Browser is disabled by default in the file, but you may reenable it in the experimental settings under the BIOS (Left shift/F2 during boot), or in the experimental settings under Advanced. The Ultraviolet browser will not work in the file, unfortunately, due to service workers not working in file:/// or file:// url's :(
+*FATCAT Browser is disabled by default in the file, but you may reenable it in the experimental settings under the BIOS (Left shift/F2 during boot), or in the experimental settings under Advanced. The Ultraviolet browser will not work in the file, unfortunately, due to service workers not working in file:/// or file:// url's :(
 
 ---
 
 ## DEPLOY ME!!
 
-Make your own vercel.app instance of NautilusOS with this handy button!
+Make your own vercel.app instance of FATCAT OS with this handy button!
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnautilus-os%2FNautilusOS)
 
@@ -22,7 +22,7 @@ You can also do this with Netlify!
 [![Deploy with Netlify](https://netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nautilus-os/nautilusos)
 
 
-You can also deploy NautilusOS in a Github Codespace:
+You can also deploy FATCAT OS in a Github Codespace:
 
 1. click on the green code button in this repo
 2. click on the codespaces tab
@@ -45,19 +45,19 @@ There’s a ton of stuff to play with, but here’s a quick rundown (seriously, 
 - advanced cloaking options not seen in other proxies
 - allows creation of multiple accounts with different editable  permissions (superuser or standard users)
 - THREE built in proxy browsers, all using different technologies
-- tons of themes to customize Nautilus to your preference
+- tons of themes to customize FATCAT to your preference
 - fully animated desktop environment
 - BIOS for power users
 - draggable + resizable windows
 - notifications and a quick action menu
 - built in screenshotting, media viewing, music playing and more
 - taskbar to keep your apps organized
-- custom right-click menu to quickly perform tasks within Nautilus
+- custom right-click menu to quickly perform tasks within FATCAT
 - searchable start menu with user info and apps grid  
 - a multitude of preinstalled apps + an app store to discover more
 - tons of customization and settings
 - exportable/importable profiles
-- AI-powered OS automation - NautilusOS comes prepackaged with a built in AI assistant capable of both answering your questions AND controlling your OS! (with your approval ofc)
+- AI-powered OS automation - FATCAT OS comes prepackaged with a built in AI assistant capable of both answering your questions AND controlling your OS! (with your approval ofc)
 
 Basically... a whole little OS in your browser :D
 
@@ -67,7 +67,7 @@ Basically... a whole little OS in your browser :D
 
 - [ ] RIGHT CLICK MEN U IS BROKEN :((((((
 - [ ] automaqitcally lower the margin bottom on desktop icons when switching to small icons and large icons. for medium and extra large it just looks fine idk
-- [ ] add swimmign fishes in setup screen from NautilusOS-Web insted of odd flaoting orbs (lane)
+- [ ] add swimmign fishes in setup screen from FATCAT OS-Web insted of odd flaoting orbs (lane)
 - [ ] add pfps from github to contributers and devs in about app
 - [ ] fix light theme gosh it sucks
 - [ ] if u hit login in without choosing an existing accoutnit just picks the first one, should ask u to pick an acc
@@ -132,7 +132,7 @@ Developed by dinguschan, x8rr, and lanefiedler-731
 
 ## IF YOU ARE FORKING
 **License compliance notice (AGPL-3.0 §5):**
-If you fork or redistribute NautilusOS, you must:
+If you fork or redistribute FATCAT OS, you must:
  - Keep our copyright & license files intact.
  - Add a **prominent** “Modified from NautilusOS” notice with the date of your change.
  - Provide full source to any users over a network.
